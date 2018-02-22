@@ -22,7 +22,7 @@
     width: 200px;
     margin: 20px 20px 20px 0;
     background-color: blue;
-    display: inline-block;
+    /* display: inline-block; */
     float: left;
    }
    #main_content{
